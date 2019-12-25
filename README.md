@@ -1,6 +1,6 @@
 # Identicon
 
-**TODO: Add description**
+**Simple app to create identicon**
 
 ## Installation
 
